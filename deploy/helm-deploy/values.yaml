@@ -1,0 +1,6 @@
+---
+nsspace: mycart
+mylabels:
+  app: myapp
+  tier: frontend
+replicas: 2 
